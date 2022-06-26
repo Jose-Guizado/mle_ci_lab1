@@ -13,4 +13,4 @@ jobs:
           pip install pytest-cov==3.0.0
           pip install flake8
           pytest tests/
-          flake8.
+          flake8 .
